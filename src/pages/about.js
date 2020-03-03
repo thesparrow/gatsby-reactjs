@@ -14,7 +14,7 @@ const AboutPage = () => (
         <SEO title="About Me" /> 
         <h1> About me </h1>
        
-        <FancyParagraph  paragraphText="Styled with CSS Modules." />
+        <FancyParagraph  paragraphText="Write some text and make sure it is up to date." />
         
     </Layout>
     
